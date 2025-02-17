@@ -1,3 +1,2 @@
-This is a README file
-Type in Some Stuff 
+booya
 Making some random changes to this README file

@@ -1,0 +1,281 @@
+    1  ls
+    2  cd ..
+    3  ls
+    4  cd Python-Programming/
+    5  git init
+    6  git add README.md
+    7  touch README.md
+    8  git add README.md
+    9  git commit -m 'first commit'
+   10  git config --global user.email "nontoncube7@gmail.com"
+   11  git config --global user.name "Natashacodes-prog"
+   12  git commit -m "first commit"
+   13  git branch -M main
+   14  git remote add 
+   15  git remote add origin https: //github.com/Natashacodes-prog/Python-Programming.git
+   16  git remote add Natashacodes-prog //github.com/Natashacodes-prog/Python-Programming.git
+   17  git push -u origin main
+   18  git push
+   19  git push --set-upstream Natashacodes-prog main
+   20  git push
+   21  git push --set-upstream Natashacodes-prog main
+   22  git branch -M main
+   23  git push -u origin main
+   24  git remote set-url origin https://github.com/Natashacodes-prog/Python-Programming.git
+   25  git remote set-url main https://github.com/Natashacodes-prog/Python-Programming.git
+   26  git remote add origin https://github.com/Natashacodes-prog/Python-Programming.git
+   27  git push -u origin main
+   28  ls
+   29  cd ..
+   30  ls
+   31  cd Python-Programmin
+   32  cd Python-Programming/
+   33  ls
+   34  git add new-workspace.jupyterlab-workspace 
+   35  git commit -m 'Working with strings'
+   36  git push
+   37  git add
+   38  git add
+   39  git add .
+   40  cd ..
+   41  ls
+   42  cd root
+   43  cd /root
+   44  cd /..
+   45  ls
+   46  cd ..
+   47  ls
+   48  cd
+   49  ls
+   50  cd Python-Programming
+   51  ls
+   52  git add 'Python_strings.ipynb' 
+   53  git commit -m "Working on Python Strings"
+   54  git push
+   55  ls
+   56  vi README.md
+   57  git pull
+   58  vi README.md 
+   59  exit
+   60  ls
+   61  xs
+   62  cd
+   63  ls
+   64  cd Python-Programming/
+   65  ls
+   66  git add .
+   67  git commit -m 'sets'
+   68  git push
+   69  exit
+   70  cd 
+   71  ls
+   72  cd Python-Programming
+   73  ls
+   74  git add . 
+   75  cd
+   76  ls
+   77  cd Python-Programming
+   78  ls
+   79  git add .
+   80  git commit "programming"
+   81  git commit -m "programming"
+   82  git push
+   83  git push
+   84  exit
+   85  ls
+   86  cd 
+   87  ls
+   88  cd Python-Programming
+   89  ls
+   90  git clone https://github.com/evalarumbe/basic-scraping.git
+   91  ls
+   92  git status
+   93  git commit -m 'Basic Scrapping'
+   94  git add .
+   95  git push
+   96  cd basic-scraping
+   97  ls
+   98  git add .
+   99  git commit -m "basic-scraping"
+  100  git push
+  101  cd .
+  102  cd ..
+  103  cd root
+  104  ce root/
+  105  cd root/
+  106  cd /root
+  107  ls
+  108  cd 
+  109  git clone https://github.com/evalarumbe/basic-scraping.git
+  110  ls
+  111  git status
+  112  cd basic-scraping
+  113  git status
+  114  git commit -m 
+  115  git commit
+  116  ls
+  117  vi README.md
+  118  cd
+  119  ls
+  120  cd basic-scrapping
+  121  cd Python-Programming/
+  122  ls
+  123  cd basic-scraping/
+  124  ls
+  125  cd
+  126  ls
+  127  cd basic-scraping
+  128  ls
+  129  ls
+  130  sudo apt-get install python3-venv
+  131  sudo apt-get install python3-venv
+  132  apt-get install python3-env
+  133  install python3-venv
+  134  install python3-venv/basic/scraping
+  135  pyhon
+  136  export PATH="/c/Users/Nonto/anaconda3/Scripts:$PATH"
+  137  conda activate NontobekoPY4E
+  138  conda init
+  139  exit
+  140  [200~conda activate NontobekoPY4E
+  141  ~conda activate NontobekoPY4E
+  142  conda activate NontobekoPY4E
+  143  conda activate NontobekoPY4E
+  144  conda init
+  145  echo $PATH
+  146  export PATH="/c/Users/Nonto/anaconda3/Scripts:$PATH"
+  147  echo $PATH
+  148  conda init bash
+  149  close
+  150  exit
+  151  [200~conda activate NontobekoPY4E
+  152  ~conda activate NontobekoPY4E
+  153  which conda
+  154  /c/Users/Nonto/anaconda3/Scripts/conda.exe activate NontobekoPY4E
+  155  conda init bash
+  156  /c/Users/Nonto/anaconda3/Scripts/conda activate NontobekoPY4E
+  157  conda init bash
+  158  export PATH="/c/Users/Nonto/anaconda3/Scripts:$PATH"
+  159  conda activate NontobekoPY4E
+  160  ls
+  161  conda deactivate
+  162  ls
+  163  conda activate NontobekoAnaconda
+  164  exit
+  165  cd
+  166  newfile.js
+  167  cd desktop
+  168  cd Web Development
+  169  cd WebDevelopment
+  170  cd "C:\Users\Nonto\OneDrive\Desktop\Web Development\Odin\Flowers\newfile.js"
+  171  cd Web Development\Odin\Flowers\newfile.js
+  172  ls
+  173  cd
+  174  ls
+  175  cd OneDrive
+  176  ls
+  177  cd Desktop
+  178  ls
+  179  cd 'Web Development'
+  180  ls
+  181  cd Odin
+  182  ls
+  183  cd Flowers
+  184  newfile.js
+  185  node newfile.js
+  186  node C:\Users\Nonto\OneDrive\Desktop\Web Development\Odin\Flowers\newfile.js
+  187  "C:\Users\Nonto\OneDrive\Desktop\Web Development\Odin\Flowers\newfile.js
+  188  cd
+  189  "
+  190  node [C:\Users\Nonto\OneDrive\Desktop\Web Development\Odin\Flowers\newfile.js]
+  191  node C:\Users\Nonto\OneDrive\Desktop\Web Development\Odin\Flowers\newfile.js
+  192  exit
+  193  node task2.js
+  194  node task2.js
+  195  node task2.js
+  196  node task2.js
+  197  node task2.js
+  198  node task2.js
+  199  node task2.js
+  200  node task2.js
+  201  node task2.js
+  202  node task2.js
+  203  node task2.js
+  204  node task2.js
+  205  node task2.js
+  206  node task2.js
+  207  node task2.js
+  208  node task2.js
+  209  node task2.js
+  210  node task2.js
+  211  node task2.js
+  212  [A
+  213  [A
+  214  node task2.js
+  215  node task2.js
+  216  node task2.js
+  217  node task2.js
+  218  node task2.js
+  219  node task2.js
+  220  node task2.js
+  221  node task2.js
+  222  node task2.js
+  223  node task2.js
+  224  exit
+  225  ls
+  226  cd git-basic-exercises
+  227  ls -a
+  228  git status
+  229  git add .
+  230  git status
+  231  git log
+  232  nano README.nd
+  233  cat README.md
+  234  git status
+  235  git commit "second commit"
+  236  git add.
+  237  git add .
+  238  git commit "second commit"
+  239  git status
+  240  cat README.md
+  241  git push
+  242  git add README.md
+  243  git commit -m "second commit"
+  244  git push
+  245  nano README.md
+  246  git status
+  247  git commit -m "third commit"
+  248  git add .
+  249  git add README.md
+  250  git commit -m "third commit"
+  251  git push
+  252  git log
+  253  git checkout f688948bc3b2535b71f0f64e83205508fac15984
+  254  cat README.md
+  255  git checkout main
+  256  git checkout master
+  257  cat README.md
+  258  git branch
+  259  git checkout -b milkshake-flavours
+  260  git branch
+  261  git checkout master
+  262  git branch
+  263  git checkout milk-shakes
+  264  git checkout milkshake-flavours
+  265  nano milkshakes.md
+  266  git status
+  267  git add milkshakes.md
+  268  git commit -m "added initial flavours"
+  269  git log
+  270  git checkout 13edcce98993258ac766e5cce6c9f41457798ee8
+  271  git checkout milkshake-flavours
+  272  git push
+  273  git push --set-upstream origin milkshake-flavours
+  274  git checkout master
+  275  git checkout -b history
+  276  git log
+  277  git branch
+  278  git checkout milkshake-flavours
+  279  git log
+  280  git checkout history
+  281  history > history.txt
